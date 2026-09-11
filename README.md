@@ -256,4 +256,4 @@ This repository serves as the official landing page for Lords Mobile. The softwa
 **Get the most recent version of Lords Mobile today!**
 
 ---
-**Last updated:** 2026-09-10 23:29:22 UTC
+**Last updated:** 2026-09-11 01:42:14 UTC
